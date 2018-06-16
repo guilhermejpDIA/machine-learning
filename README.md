@@ -7,5 +7,5 @@ I will be using this plaftorm to upload some machine learning projects I've done
 
 
 ### Study:
-[Neural Networks] - [Using pyTorch for Classification Problems]((https://github.com/guilhermejpDIA/machine-learning/blob/master/study/neural_networks/pytorch_classification.ipynb)
+[Neural Networks] - [Using pyTorch for Classification Problems](https://github.com/guilhermejpDIA/machine-learning/blob/master/study/neural_networks/pytorch_classification.ipynb)
 
