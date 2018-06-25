@@ -1,1 +1,0 @@
-Projects involve forecasting (time series regression).
