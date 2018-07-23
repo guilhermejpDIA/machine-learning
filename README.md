@@ -7,6 +7,8 @@
 
 [Data Analysis] - [Stock Picking using Optimizers](https://github.com/guilhermejpDIA/machine-learning/blob/master/projects/data_analysis/StockPicking.ipynb)
 
+[Data Challenge] - [TOTVS Data Challeng: Predicting Customer Lifetime Value](https://github.com/guilhermejpDIA/machine-learning/blob/master/projects/data_challenge/TOTVS.ipynb)
+
 
 ### Study:
 [Neural Networks] - [Using PyTorch for Classification Problems](https://github.com/guilhermejpDIA/machine-learning/blob/master/study/neural_networks/pytorch_classification.ipynb)
